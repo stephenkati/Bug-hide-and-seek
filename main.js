@@ -95,7 +95,6 @@ const mycards = [
 ];
 
 // display cards in website refactor
-const cardlayout = document.querySelector('.card-layout');
 
 mycards.forEach((project) => {
   // console.log(project.id);
